@@ -3,6 +3,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-adaptive-object-detection-via-1/weakly-supervised-object-detection-on-1)](https://paperswithcode.com/sota/weakly-supervised-object-detection-on-1?p=domain-adaptive-object-detection-via-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-adaptive-object-detection-via-1/weakly-supervised-object-detection-on-2)](https://paperswithcode.com/sota/weakly-supervised-object-detection-on-2?p=domain-adaptive-object-detection-via-1)
 
+Code implementation of [Domain-Adaptive Object Detection via Uncertainty-Aware Distribution Alignment, ACM MM 2020](https://dl.acm.org/doi/10.1145/3394171.3413553)
 
 Multi-level Entropy Attention Alignment (MEAA) is an end-to-end approach for unsupervised domain adaptation of object detector. Specifically, MEAA consists of two main components: 
 
